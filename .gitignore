@@ -1,0 +1,27 @@
+# ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+
+# Visual Studio
+.vs/
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.sln.idealive.*
+
+# Mac
+.DS_Store
+
+# Backup
+*.backup
+*.tmp
+*.bak
+
+# Connection strings (cẩn thận commit secret)
+appsettings.Development.json
